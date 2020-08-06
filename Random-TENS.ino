@@ -11,7 +11,9 @@ language EN
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-// SETTINGS
+// -------------------------------------------------- //
+// ------------------- SETTINGS --------------------- //
+// -------------------------------------------------- //
 
 // SETTING THE INTENSITY OF MAX VALUE
 int inte_1 = 5;
